@@ -27,7 +27,7 @@ defmodule Chroxy.MixProject do
     [
       {:plug, "~> 1.10.0"},
       {:plug_cowboy, "~> 2.4.0"},
-      {:cowboy, "~> 2.8.0"},
+      {:cowboy, "~> 2.7.0"},
       {:jason, "~> 1.1"},
       {:erlexec, "~> 1.10.0"},
       {:exexec, "~> 0.2"},
